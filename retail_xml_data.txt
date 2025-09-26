@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Transaction 1 -->
+<transaction>
+    <header>
+        <store_id>101</store_id>
+        <transaction_id>T12345</transaction_id>
+        <date>2025-09-24</date>
+        <time>14:30:25</time>
+        <cashier>John Doe</cashier>
+        <payment_method>Credit Card</payment_method>
+        <customer_id>C987</customer_id>
+    </header>
+    <body>
+        <items>
+            <item>
+                <item_id>1001</item_id>
+                <item_name>iPhone 15</item_name>
+                <category>Electronics</category>
+                <quantity>1</quantity>
+                <price>999.99</price>
+                <discount>100.00</discount>
+            </item>
+            <item>
+                <item_id>1002</item_id>
+                <item_name>Wireless Charger</item_name>
+                <category>Accessories</category>
+                <quantity>2</quantity>
+                <price>29.99</price>
+                <discount>5.00</discount>
+            </item>
+            <item>
+                <item_id>1003</item_id>
+                <item_name>Phone Case</item_name>
+                <category>Accessories</category>
+                <quantity>1</quantity>
+                <price>19.99</price>
+                <discount>0.00</discount>
+            </item>
+        </items>
+    </body>
+</transaction>
+
+<!-- Transaction 2 -->
+<transaction>
+    <header>
+        <store_id>102</store_id>
+        <transaction_id>T12346</transaction_id>
+        <date>2025-09-24</date>
+        <time>15:45:10</time>
+        <cashier>Jane Smith</cashier>
+        <payment_method>Debit Card</payment_method>
+        <customer_id>C988</customer_id>
+    </header>
+    <body>
+        <items>
+            <item>
+                <item_id>2001</item_id>
+                <item_name>Samsung TV 55 inch</item_name>
+                <category>Electronics</category>
+                <quantity>1</quantity>
+                <price>1299.99</price>
+                <discount>200.00</discount>
+            </item>
+            <item>
+                <item_id>2002</item_id>
+                <item_name>HDMI Cable</item_name>
+                <category>Accessories</category>
+                <quantity>2</quantity>
+                <price>15.99</price>
+                <discount>0.00</discount>
+            </item>
+        </items>
+    </body>
+</transaction>
+
+<!-- Transaction 3 -->
+<transaction>
+    <header>
+        <store_id>103</store_id>
+        <transaction_id>T12347</transaction_id>
+        <date>2025-09-24</date>
+        <time>16:20:45</time>
+        <cashier>Mike Johnson</cashier>
+        <payment_method>Cash</payment_method>
+        <customer_id>C989</customer_id>
+    </header>
+    <body>
+        <items>
+            <item>
+                <item_id>3001</item_id>
+                <item_name>Gaming Laptop</item_name>
+                <category>Computers</category>
+                <quantity>1</quantity>
+                <price>1899.99</price>
+                <discount>300.00</discount>
+            </item>
+            <item>
+                <item_id>3002</item_id>
+                <item_name>Gaming Mouse</item_name>
+                <category>Accessories</category>
+                <quantity>1</quantity>
+                <price>79.99</price>
+                <discount>10.00</discount>
+            </item>
+            <item>
+                <item_id>3003</item_id>
+                <item_name>Mouse Pad</item_name>
+                <category>Accessories</category>
+                <quantity>1</quantity>
+                <price>24.99</price>
+                <discount>0.00</discount>
+            </item>
+        </items>
+    </body>
+</transaction>
+
+<!-- Transaction 4 -->
+<transaction>
+    <header>
+        <store_id>101</store_id>
+        <transaction_id>T12348</transaction_id>
+        <date>2025-09-24</date>
+        <time>17:15:30</time>
+        <cashier>Sarah Wilson</cashier>
+        <payment_method>Credit Card</payment_method>
+        <customer_id>C990</customer_id>
+    </header>
+    <body>
+        <items>
+            <item>
+                <item_id>4001</item_id>
+                <item_name>Bluetooth Speaker</item_name>
+                <category>Audio</category>
+                <quantity>1</quantity>
+                <price>149.99</price>
+                <discount>25.00</discount>
+            </item>
+            <item>
+                <item_id>4002</item_id>
+                <item_name>USB Cable</item_name>
+                <category>Accessories</category>
+                <quantity>3</quantity>
+                <price>9.99</price>
+                <discount>0.00</discount>
+            </item>
+        </items>
+    </body>
+</transaction>
+
+<!-- Transaction 5 -->
+<transaction>
+    <header>
+        <store_id>104</store_id>
+        <transaction_id>T12349</transaction_id>
+        <date>2025-09-24</date>
+        <time>18:00:15</time>
+        <cashier>David Brown</cashier>
+        <payment_method>Mobile Pay</payment_method>
+        <customer_id>C991</customer_id>
+    </header>
+    <body>
+        <items>
+            <item>
+                <item_id>5001</item_id>
+                <item_name>Smart Watch</item_name>
+                <category>Wearables</category>
+                <quantity>1</quantity>
+                <price>399.99</price>
+                <discount>50.00</discount>
+            </item>
+            <item>
+                <item_id>5002</item_id>
+                <item_name>Watch Band</item_name>
+                <category>Accessories</category>
+                <quantity>2</quantity>
+                <price>39.99</price>
+                <discount>5.00</discount>
+            </item>
+            <item>
+                <item_id>5003</item_id>
+                <item_name>Screen Protector</item_name>
+                <category>Accessories</category>
+                <quantity>1</quantity>
+                <price>12.99</price>
+                <discount>0.00</discount>
+            </item>
+        </items>
+    </body>
+</transaction>
